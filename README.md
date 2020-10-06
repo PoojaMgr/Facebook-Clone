@@ -4,6 +4,6 @@ This is the simple facebook-clone project.
 * ReactJS
 * Firebase
 
-`Glimpse of app`
+`Hosting URL`
 https://facebook-clone-c3fca.web.app/
 
