@@ -1,0 +1,29 @@
+.search__input {
+    display: flex;
+    align-items: center;
+    border: 1px solid lightgray;
+    height: 30px;
+    padding: 10px 10px;
+    border-radius: 7px;
+    width: 50vw;
+    margin: 0 auto;
+    max-width: 265px;
+    background-color: #d3d3d33b;
+}
+
+.search__input > input {
+    flex: 1;
+    padding: 10px 7px;
+    font-size: medium;
+    border: none;
+    background-color: #d3d3d33b;
+}
+
+.search__input > input:focus {
+    outline-width: 0;
+}
+
+.search__inputIcon{
+    color: grey;
+}
+

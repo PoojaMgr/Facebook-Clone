@@ -1,0 +1,29 @@
+.widgets{
+   padding: 25px 10px; 
+}
+.widgets__section{
+    display: flex;
+    flex-direction: column;
+    padding: 25px 10px;
+    
+}
+.widgets__option{
+    display: flex;  
+    flex-direction: row;  
+}
+
+.widgets__option > p{
+    font-size: medium;
+    padding-top: 8px;
+    margin-left: 10px;
+    display: block;
+}
+.widgets__section > h3 {
+    color: gray;
+    font-size: larger;
+}
+.widgets__option > button {
+    border-radius: 10px;
+    background-color: blue;
+    cursor: pointer;
+}
